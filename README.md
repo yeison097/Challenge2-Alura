@@ -23,4 +23,7 @@
 <img src="https://github.com/yeison097/Challenge2-Alura/blob/main/ch2.gif" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div> 
 
-  ##  Importante! 
+  ##  Modelo entidad relacion!
+  <div align= "center">
+<img src="https://github.com/yeison097/Challenge2-Alura/blob/main/mr.png" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  </div>
