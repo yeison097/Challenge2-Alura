@@ -19,3 +19,6 @@
 🎨 La interfaz contiene dos métodos importantes:
 - setResizable(false): determina el tamaño de la ventana, y a través del parámetro <strong>false</strong>, la pantalla no se puede maximizar;
 - setLocationRelativeTo(null): determina la ubicación de la ventana, y a través del parámetro <strong>null</strong> la mantiene centrada en la pantalla. 
+ <div align= "center">
+<img src="https://github.com/yeison097/Challenge2-Alura/blob/main/ch2.gif" alt="Conversor" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  </div> 
